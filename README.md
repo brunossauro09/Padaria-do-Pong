@@ -3,13 +3,11 @@
 
 ## Tópicos
 
-Descrição do Projeto
+Um jogo estilo ping pong com temática de comida.
 
-descrição breve do jogo
+O objetivo do jogo é bater na bola para jogar para o lado do oponente, se o oponente não defender, o jogador marca um ponto. Se o jogador marcar dois pontos ele vence o jogo.
 
-Funcionalidades
-
-todas as funcionalidades do jogo
+Cada jogador controla um pão que serve para rebater a bola que é um pão de queijo e tem o contador para marcar os pontos.
 
 Deploy - link do projeto
 
